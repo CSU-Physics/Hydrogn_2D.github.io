@@ -4,14 +4,14 @@
       "interactionMode": "terminal"
     },
     "jupyter-config-data": {
-      "liteConfig": {
-        "enableMemoryStorage": true
-      },
       "disabledExtensions": [
         "@jupyterlab/drawio-extension",
         "jupyterlab-kernel-spy",
         "jupyterlab-tour"
       ]
+    },
+    "LiteServerContents": {
+      "storage": false
     }
   }
   
