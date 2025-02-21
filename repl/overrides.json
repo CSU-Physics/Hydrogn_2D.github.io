@@ -2,7 +2,7 @@
   "@jupyterlab/notebook-extension:panel": {
     "toolbar": [
       {
-        "name": "download",
+        "name": "ddownload",
         "label": "Download",
         "args": {},
         "command": "docmanager:download",
