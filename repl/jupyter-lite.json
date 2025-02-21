@@ -8,10 +8,10 @@
         "@jupyterlab/drawio-extension",
         "jupyterlab-kernel-spy",
         "jupyterlab-tour"
-      ]
-    },
-    "LiteServerContents": {
-      "storage": false
+      ],
+      "LiteServerContents": {
+        "storage": false
+      }
     }
   }
   
